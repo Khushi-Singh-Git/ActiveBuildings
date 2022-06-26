@@ -1,3 +1,48 @@
+# :large_blue_diamond: ActiveBuildings
+
+### An online inventory cart management system with real-time data updation to MongoDB cloud and list filteration feature.
+
+![ezgif-5-423a8c2b83](https://user-images.githubusercontent.com/107871742/175824635-d9d6e509-ac89-48cb-a764-bd54dbe81986.gif)
+
+# :large_blue_circle: Steps
+
+## :one: Landing Page
+
+### This is the landing page of the website
+
+![Screenshot (3633)](https://user-images.githubusercontent.com/107871742/175824870-6dfd6f5e-fe11-48c1-952c-6f45dbd0be88.png)
+
+## :two: Fillup the form
+
+### Fill in the details in the form, of the product that you want to purchase and click "submit".
+
+![Screenshot (3638)](https://user-images.githubusercontent.com/107871742/175825192-232648d5-e441-45e4-981e-0dd7c8fb5179.png)
+
+## :three: View the list of items added to cart
+
+###  You can see the list of items added to cart with all the column fields (scroll down).
+
+![Screenshot (3635)](https://user-images.githubusercontent.com/107871742/175825248-de7dfd03-3308-4465-9bf3-b82c46d9691c.png)
+
+## :four: Filter the items based on any column
+
+### You can filter out the list of items based on the columns present in the list, Sorting can also be done.
+
+![Screenshot (3639)](https://user-images.githubusercontent.com/107871742/175825332-2566a58a-cf3e-4bdf-8f29-7399a9ee75b6.png)
+
+##  :five: MongoDB cloud database
+
+### You can view the whole history of database in mongoDB cloud.
+
+![Screenshot (3637)](https://user-images.githubusercontent.com/107871742/175825381-7e174629-e096-4788-b19d-2a9ce4c31253.png)
+
+# Demo
+
+### The complete demo video of all the features explored.
+
+![ezgif-5-423a8c2b83](https://user-images.githubusercontent.com/107871742/175825390-1f30a3b1-13be-4476-b963-b1473461c5bb.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
